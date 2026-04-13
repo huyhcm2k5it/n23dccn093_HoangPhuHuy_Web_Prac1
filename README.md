@@ -10,4 +10,5 @@ Các tính năng đã hoàn thiện bao gồm:
 2. **Components:** Đã tách file rõ ràng cho `Header`, `BlogCard`, và `Badge` hỗ trợ việc tái sử dụng.
 3. **Trang chi tiết (Blog Detail):** Sử dụng Dynamic Routing `app/blog/[id]/page.js` bóc tách từng bài viết để render giao diện chi tiết bằng tham số ID.
 
-Dự án có giao diện hiện đại, đồng bộ và không gặp lỗi biên dịch.
+Dự án có giao diện hiện đại, tối ưu responsive mọi thiết bị và không gặp bất kỳ lỗi biên dịch nào trong quá trình chạy.
+*(Đã hoàn thành 100% mục tiêu bài thực hành).*
